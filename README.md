@@ -115,7 +115,7 @@ Follow these steps to reproduce our results by running the notebooks sequentiall
 
 - Nguyen Tran Thanh Lam
 - Pham Hong Phuc
-- Pham Tran Tuan Minh
+- Pham Tran Minh Tuan
 - Dinh Quang Anh
 - Nguyen Le Tam
 
